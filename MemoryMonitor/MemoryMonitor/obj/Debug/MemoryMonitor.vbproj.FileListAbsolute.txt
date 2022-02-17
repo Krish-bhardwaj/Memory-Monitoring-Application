@@ -1,0 +1,12 @@
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.exe.config
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.exe
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.pdb
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\bin\Debug\MemoryMonitor.xml
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.vbproj.AssemblyReference.cache
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.Form1.resources
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.Resources.resources
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.vbproj.GenerateResource.cache
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.vbproj.CoreCompileInputs.cache
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.exe
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.xml
+C:\Users\krish\Desktop\github\Memory-Monitor\MemoryMonitor\MemoryMonitor\obj\Debug\MemoryMonitor.pdb
